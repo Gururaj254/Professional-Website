@@ -65,7 +65,7 @@ export default function Contact() {
             <strong>Resume:</strong>{" "}
             <a
             
-              href="https://kod-production-profile-service.s3.ap-south-1.amazonaws.com/36a29154-fc4f-4067-b603-5000fe19708e/resume.pdf"
+              href="https://kod-production-profile-service.s3.ap-south-1.amazonaws.com/36a29154-fc4f-4067-b603-5000fe19708e/resume.pdf?t=2026-04-17T05:22:27.592Z"
               target="_blank"
               rel="noreferrer"
             >

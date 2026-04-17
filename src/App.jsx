@@ -5,7 +5,6 @@ import Footer from "./Components/Footer.jsx";
 import Projects from "./Components/Projects.jsx";
 import Header from "./Components/Header.jsx";
 import Skills from "./Components/Skills.jsx";
-import Intrest from "./Components/Intrest.jsx";
 import Contact from "./Components/Contact.jsx";
 import Summary from "./Components/Summary.jsx";
 import Languages from "./Components/Languages.jsx";
@@ -34,7 +33,6 @@ export default function App() {
       <Projects />
       <Summary />
       <Languages />
-      <Intrest />
       <Footer />
     </div>
   );

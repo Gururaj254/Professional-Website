@@ -8,7 +8,7 @@ export default function Experience() {
           Softawre Development Intern at Kodnest technologies, Bangalore  jun 2025 - Current.
         </li>
         <li className="experience-item">
-          As a Fresher i built 2 spring boot rest apis, as well as React Projects.
+          As a Fresher built spring boot rest apis, as well as React, NodeJs Projects.
         </li>
 
         <li className="experience-item">

@@ -5,14 +5,14 @@ export default function Skills() {
 
       <div className="skills-grid">
         <div className="skills-card">
-          <h4>Programming</h4>
-          <p>Java, SQL, JavaScript, Python (Basic)</p>
+          <h4>Programming Languages</h4>
+          <p>Java, SQL, JavaScript</p>
         </div>
 
         <div className="skills-card">
           <h4>Backend</h4>
           <p>
-            Spring, Spring Boot, Spring MVC, Spring Data JPA, Spring Security(JWT),Spring Cloud Config ,Spring Microservices
+            Spring, Spring Boot, Node.Js, Express.Js
             REST APIs
           </p>
         </div>
@@ -20,7 +20,7 @@ export default function Skills() {
 
         <div className="skills-card">
           <h4>Databases</h4>
-          <p>MySQL, Oracle</p>
+          <p>MySQL</p>
         </div>
 
         <div className="skills-card">

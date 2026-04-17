@@ -43,10 +43,23 @@ export default function Projects() {
         </div>
       </div>
 
+       <div className="project">
+        <h3>
+          3. Project Title: <mark>Secure Authentication System </mark>
+        </h3>
+        <p>
+          <strong>Technologies used:</strong> <mark>Node.js, Express, React, MySQL</mark>
+        </p>
+        <ul>
+          <li>	Built a secure registration and login system using JWT for session management and Bcrypt for password hashing.</li>
+          <li>	Implemented protected routes on the frontend and integrated MySQL for robust user data storage and schema validation.</li>
+        </ul>
+      </div>
+
       {/* Task Matrix */}
       <div className="project">
         <h3>
-          3. Project Title: <mark>Task Tracker App</mark>
+          4. Project Title: <mark>Task Tracker App</mark>
         </h3>
         <p>
           <strong>Technologies used:</strong> <mark>ReactJS</mark>
