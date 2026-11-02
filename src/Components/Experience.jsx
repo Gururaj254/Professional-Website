@@ -1,26 +1,29 @@
 export default function Experience() {
   return (
     <section className="experience-section">
-      <h2 >Experience</h2>
+      <h2>Experience</h2>
 
-      <ul className="experience-list">
-         <li className="experience-item">
-          Softawre Development Intern at Kodnest technologies, Bangalore  jun 2025 - Current.
-        </li>
-        <li className="experience-item">
-          As a Fresher built spring boot rest apis, as well as React, NodeJs Projects.
-        </li>
+      <div className="experience-list">
+        <div className="experience-item">
+          <h3>Full Stack Development | KodNest Technologies</h3>
+          <p><strong>Duration:</strong> June 2025 – April 2026</p>
+          <p>
+            Worked on full-stack application development using Java, Spring Boot, React.js and MySQL. 
+            Developed REST APIs, performed API validation using Postman, tested application functionality and handled database operations. 
+            Gained practical understanding of application workflows, debugging and software development processes.
+          </p>
+        </div>
 
-        <li className="experience-item">
-          Motivated team player with a commitment to quickly acquiring new competencies and adapting to evolving work situations.
-        </li>
-        <li className="experience-item">
-          Adept at working independently, proactively addressing challenges, and building positive relationships.
-        </li>
-        <li className="experience-item">
-          Possesses a strong work ethic and proven ability to contribute to both individual and collaborative projects.
-        </li>
-      </ul>
+        <div className="experience-item">
+          <h3>AI – Data Quality Analyst | Rooman Technologies Pvt. Ltd</h3>
+          <p><strong>Duration:</strong> February 2025 – May 2025</p>
+          <p>
+            Worked on data quality validation and AI output assessment. Evaluated data accuracy, identified inconsistencies 
+            and performed quality checks on LangChain-based RAG pipelines and AI workflows. 
+            Prepared documentation to support data reliability and system performance.
+          </p>
+        </div>
+      </div>
     </section>
   );
 }

@@ -1,4 +1,3 @@
-
 export default function Languages() {
   return (
     <section className="languages-box fade-in">

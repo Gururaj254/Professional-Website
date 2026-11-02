@@ -10,7 +10,7 @@ export default function Contact() {
           </li>
 
           <li>
-            <strong>Role:</strong> Software Developer / Full Stack Developer
+            <strong>Role:</strong> Software Engineer / Manual Test Engineer & Java Developer
           </li>
 
           <li>
@@ -25,7 +25,7 @@ export default function Contact() {
           </li>
 
           <li>
-            <strong>Location:</strong> Bangalore, India
+            <strong>Location:</strong> Karnataka, India
           </li>
 
           <li>
@@ -40,7 +40,7 @@ export default function Contact() {
           </li>
 
           <li>
-            <strong>Personal Projects :</strong>{" "}
+            <strong>Personal Projects:</strong>{" "}
             <a
               href="https://github.com/Gururaj254"
               target="_blank"
@@ -51,7 +51,7 @@ export default function Contact() {
           </li>
 
           <li>
-            <strong>GitHub Profole:</strong>{" "}
+            <strong>GitHub Profile:</strong>{" "}
             <a
               href="https://github.com/Gururaj254/About-Me-"
               target="_blank"
@@ -64,7 +64,6 @@ export default function Contact() {
           <li>
             <strong>Resume:</strong>{" "}
             <a
-            
               href="https://kod-production-profile-service.s3.ap-south-1.amazonaws.com/36a29154-fc4f-4067-b603-5000fe19708e/resume.pdf?t=2026-04-17T05:22:27.592Z"
               target="_blank"
               rel="noreferrer"
@@ -74,8 +73,7 @@ export default function Contact() {
           </li>
 
           <li>
-            <strong>Career Objective:</strong> Actively seeking full-time software
-            development opportunities.
+            <strong>Career Objective:</strong> Seeking an opportunity as a Manual Test Engineer or Software Developer to apply technical knowledge, identify application issues, and contribute to software quality assurance.
           </li>
         </ul>
       </address>

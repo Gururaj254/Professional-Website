@@ -5,17 +5,17 @@ export default function Education() {
 
       <ul className="education-list">
         <li className="education-item">
-          <strong>Degree:</strong> BE in CSE<br />
-          <strong>University:</strong> VTU Belguam, 2025, Karnataka<br />
+          <strong>Degree:</strong> B.E. Computer Science and Engineering<br />
+          <strong>University:</strong> VTU, Belagavi, 2021–2025<br />
           <strong>CGPA:</strong> 8.56
         </li>
 
         <li className="education-item">
-          <strong>SSLC:</strong> KSEEB, 2019, Karnataka
+          <strong>PUC Science:</strong> Dept of PUE, 2021, Karnataka
         </li>
 
         <li className="education-item">
-          <strong>PUC Science:</strong> Dept of PUE, 2021, Karnataka
+          <strong>SSLC:</strong> KSEEB, 2019, Karnataka
         </li>
       </ul>
     </section>

@@ -5,37 +5,33 @@ export default function Skills() {
 
       <div className="skills-grid">
         <div className="skills-card">
+          <h4>Manual Testing</h4>
+          <p>Manual Testing Fundamentals, Functional Testing Basics, Test Case Preparation, Test Execution Basics, Bug Identification</p>
+        </div>
+
+        <div className="skills-card">
+          <h4>API Testing</h4>
+          <p>Postman, REST API Testing, GET, POST, PUT, DELETE Methods, HTTP Status Code Validation, JSON Request and Response Validation</p>
+        </div>
+
+        <div className="skills-card">
           <h4>Programming Languages</h4>
-          <p>Java, SQL, JavaScript</p>
+          <p>Java, Python, JavaScript, SQL</p>
         </div>
 
         <div className="skills-card">
-          <h4>Backend</h4>
-          <p>
-            Spring, Spring Boot, Node.Js, Express.Js
-            REST APIs
-          </p>
-        </div>
-
-
-        <div className="skills-card">
-          <h4>Databases</h4>
-          <p>MySQL</p>
+          <h4>Java Technologies</h4>
+          <p>Core Java, OOP Concepts, Collections Framework, Exception Handling, Spring Boot, Spring Data JPA, Spring Security</p>
         </div>
 
         <div className="skills-card">
-          <h4>Web</h4>
-          <p>HTML, CSS, JavaScript, ReactJS, Thymeleaf</p>
+          <h4>Database</h4>
+          <p>MySQL, CRUD Operations, Basic SQL Queries</p>
         </div>
 
         <div className="skills-card">
-          <h4>Core Concepts</h4>
-          <p>OOPS, Data Structures, DBMS, Microservices</p>
-        </div>
-
-        <div className="skills-card">
-          <h4>Tools</h4>
-          <p>Git, GitHub, Maven, Postman, IntelliJ IDEA, Eclipse, VS Code</p>
+          <h4>Tools & Technologies</h4>
+          <p>Postman, Git, GitHub, Maven, React.js, REST APIs</p>
         </div>
       </div>
     </section>
